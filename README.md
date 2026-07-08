@@ -61,7 +61,7 @@ I'm a Computer Science graduate with a strong passion for offensive cybersecurit
 - HTML
 - CSS
 - JavaScript
-- SQL
+- Python
 - Bash
 
 ---
@@ -99,8 +99,8 @@ A virtual lab environment used for practicing penetration testing, vulnerability
 ## Connect With Me
 
 - GitHub: https://github.com/wamiqsec
-- LinkedIn: *(Add your LinkedIn URL)*
-- Email: *(Add your professional email)*
+- LinkedIn: www.linkedin.com/in/wamiq-hilal
+- Email: wamiqhilal61@gmail.com
 
 ---
 
